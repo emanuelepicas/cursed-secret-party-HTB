@@ -8,7 +8,6 @@ Host: 206.189.122.191:32564
 Content-Length: 195
 User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 Content-Type: application/json
-Accept: */*
 Origin: http://206.189.122.191:32564
 Referer: http://206.189.122.191:32564/
 Accept-Encoding: gzip, deflate
